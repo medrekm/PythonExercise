@@ -44,6 +44,6 @@ for i in range(x):
             tablica[i] = tablica[j]
             tablica[j] = p
 
-print("Tablica posortowana: ",tablica)
+print("Tablica posortowana malejąco: ",tablica)
 
 
